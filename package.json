@@ -1,0 +1,15 @@
+{
+  "name": "async-programming",
+  "version": "1.0.0",
+  "description": "Exercise of Asynchronous Programming",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch app.ts"
+  },
+  "author": "Sagar Maharjan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "tsx": "^4.16.0"
+  }
+}
